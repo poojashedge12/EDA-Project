@@ -1,3 +1,9 @@
+![image](https://github.com/poojashedge12/EDA-Project/assets/110235823/e61dee30-e21f-4d46-85d1-bf060d3f11dc)
+
+
+[Uploading image.png…]()
+
+
 # EDA-Project
 
 In this exploratory data analysis (EDA) project, I analyze a dataset containing information on various grocery products. The primary goal is to uncover insights that can inform business strategies, marketing decisions, and product offerings. By exploring patterns, distributions, and relationships within the grocery product data, I aim to contribute to data-driven decision-making.
@@ -25,7 +31,7 @@ In this exploratory data analysis (EDA) project, I analyze a dataset containing 
 
 ### Skills and Tools Used:
 
-**Data Cleaning and Preprocessing**:  Addressing missing values, inconsistencies, and ensureing data is in a usable format.
+**Data Cleaning and Preprocessing**:  Addressing missing values, and inconsistencies, and ensureing data is in a usable format.
 
 **Descriptive Statistics**: Calculating basic statistics to understand central tendencies and variability.
 
